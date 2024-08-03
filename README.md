@@ -1,1 +1,1 @@
-# SortingSoltaire
+# SortingSolitaire
